@@ -5,7 +5,7 @@
 
     <groupId>dev.marksman</groupId>
     <artifactId>gauntlet-hamcrest</artifactId>
-    <version>0.2.2-SNAPSHOT</version>
+    <version>0.3.0</version>
 
     <name>gauntlet-hamcrest</name>
     <description>
@@ -15,7 +15,7 @@
     <url>http://www.github.com/kschuetz/gauntlet-hamcrest</url>
 
     <properties>
-        <gauntlet.version>0.2.0</gauntlet.version>
+        <gauntlet.version>0.3.0</gauntlet.version>
         <hamcrest.version>2.2</hamcrest.version>
         <junit.version>5.4.0</junit.version>
         <maven-compiler-plugin.version>3.3</maven-compiler-plugin.version>
@@ -60,7 +60,7 @@
     <dependencies>
         <dependency>
             <groupId>dev.marksman</groupId>
-            <artifactId>gauntlet-core</artifactId>
+            <artifactId>gauntlet</artifactId>
             <version>${gauntlet.version}</version>
         </dependency>
         <dependency>
