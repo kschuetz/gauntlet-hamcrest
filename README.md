@@ -1,4 +1,4 @@
-# gauntlet
+# gauntlet-hamcrest
 
 [![gauntlet-hamcrest](https://img.shields.io/maven-central/v/dev.marksman/gauntlet-hamcrest.svg)](http://search.maven.org/#search%7Cga%7C1%7Cdev.marksman.gauntlet)
 [![CircleCI](https://circleci.com/gh/kschuetz/gauntlet-hamcrest.svg?style=svg)](https://circleci.com/gh/kschuetz/gauntlet-hamcrest)
