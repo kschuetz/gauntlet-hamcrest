@@ -1,6 +1,6 @@
 # gauntlet-hamcrest
 
-[![gauntlet-hamcrest](https://img.shields.io/maven-central/v/dev.marksman/gauntlet-hamcrest.svg)](http://search.maven.org/#search%7Cga%7C1%7Cdev.marksman.gauntlet)
+[![gauntlet-hamcrest](https://img.shields.io/maven-central/v/dev.marksman/gauntlet-hamcrest.svg)](http://search.maven.org/#search%7Cga%7C1%7Cdev.marksman.gauntlet-hamcrest)
 [![CircleCI](https://circleci.com/gh/kschuetz/gauntlet-hamcrest.svg?style=svg)](https://circleci.com/gh/kschuetz/gauntlet-hamcrest)
 
 WORK IN PROGRESS
