@@ -15,7 +15,7 @@
     <url>http://www.github.com/kschuetz/gauntlet-hamcrest</url>
 
     <properties>
-        <gauntlet.version>0.3.0</gauntlet.version>
+        <gauntlet.version>0.4.3</gauntlet.version>
         <hamcrest.version>2.2</hamcrest.version>
         <junit.version>5.4.0</junit.version>
         <maven-compiler-plugin.version>3.3</maven-compiler-plugin.version>
