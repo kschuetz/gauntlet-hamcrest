@@ -2,6 +2,7 @@
 
 [![gauntlet-hamcrest](https://img.shields.io/maven-central/v/dev.marksman/gauntlet-hamcrest.svg)](http://search.maven.org/#search%7Cga%7C1%7Cdev.marksman.gauntlet-hamcrest)
 [![CircleCI](https://circleci.com/gh/kschuetz/gauntlet-hamcrest.svg?style=svg)](https://circleci.com/gh/kschuetz/gauntlet-hamcrest)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkschuetz%2Fgauntlet-hamcrest.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkschuetz%2Fgauntlet-hamcrest?ref=badge_shield)
 
 WORK IN PROGRESS
 
@@ -30,3 +31,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkschuetz%2Fgauntlet-hamcrest.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkschuetz%2Fgauntlet-hamcrest?ref=badge_large)
